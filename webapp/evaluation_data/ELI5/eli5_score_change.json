@@ -1,0 +1,32 @@
+{
+    "prediction": {
+        "improve": 0,
+        "decrease": 0,
+        "unchange": 0
+    },
+    "1. Use simple and easy-to-understand language.": {
+        "improve": 73,
+        "decrease": 152,
+        "unchange": 975
+    },
+    "2. Use examples or analogies that are relatable to a five-year-old\u2019s experience.": {
+        "improve": 56,
+        "decrease": 321,
+        "unchange": 823
+    },
+    "3. Answers should be factually correct and cannot have subtly incorrect or fabricated information.": {
+        "improve": 98,
+        "decrease": 99,
+        "unchange": 1003
+    },
+    "4. Be easy to follow and logically coherent.": {
+        "improve": 111,
+        "decrease": 110,
+        "unchange": 979
+    },
+    "5. All things considered, answers should be helpful to the person who asked this question.": {
+        "improve": 88,
+        "decrease": 205,
+        "unchange": 907
+    }
+}

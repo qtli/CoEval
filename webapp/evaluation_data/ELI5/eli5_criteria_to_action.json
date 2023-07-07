@@ -1,0 +1,32 @@
+{
+    "1. Use simple and easy-to-understand language.": {
+        "pass": "0.87%",
+        "delete": "0.02%",
+        "revise": "0.11%",
+        "add": "0.01%"
+    },
+    "2. Use examples or analogies that are relatable to a five-year-old\u2019s experience.": {
+        "pass": "0.66%",
+        "delete": "0.10%",
+        "revise": "0.23%",
+        "add": "0.01%"
+    },
+    "3. Answers should be factually correct and cannot have subtly incorrect or fabricated information.": {
+        "pass": "0.88%",
+        "delete": "0.02%",
+        "revise": "0.10%",
+        "add": "0.00%"
+    },
+    "4. Be easy to follow and logically coherent.": {
+        "pass": "0.86%",
+        "delete": "0.01%",
+        "revise": "0.12%",
+        "add": "0.00%"
+    },
+    "5. All things considered, answers should be helpful to the person who asked this question.": {
+        "pass": "0.80%",
+        "delete": "0.03%",
+        "revise": "0.17%",
+        "add": "0.01%"
+    }
+}

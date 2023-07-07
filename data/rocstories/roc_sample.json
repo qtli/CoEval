@@ -1,0 +1,802 @@
+[
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Molly decided to drive her mom's car.",
+        "output": "Her mom was out of town. On her way to school, she raced a friend. She ended up crashing the car. Molly's mom is very upset about her car."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"pizza night\":",
+        "output": "Ann and her mom had a girls' night. They watched comedy movies all night. Then they got hungry. They decided to order a pizza. Girls' night became pizza night!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: My girlfriend and I were watching a movie at night.",
+        "output": "While watching the movie, my girlfriend felt something on her neck. She reached back and a screamed as she threw a spider onto our laps. I got up to find something to squish the spider. I squashed the spider and we went back to the movie."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"First Day Teaching\":",
+        "output": "Marsha was teaching a class for the first time one day. She was nervous about what the students would think of her. When she was in class, she tried to be both funny and informative. The students were very engaged through the whole class. This gave Marsha the confidence to continue being a great teacher."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Yacht time\":",
+        "output": "Ramona invited the girls on a summer trip. When they got to the island, Ramona decided to charter a yacht. When the girls walked aboard, they were amazed. The yacht was gorgeous. The girls couldn't be happier."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Perks of the job\":",
+        "output": "Todd was a music producer. He worked with a lot of high profile rappers. One artist Todd worked with didn't like his skills. He ordered Todd to make coffee every day while his man took over. Although Todd felt undermined, he had to take it on the chin."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The Missed Meal\":",
+        "output": "Jess woke up in the morning late for work. Jess skipped her breakfast so she could catch the bus. Jess made it to work on time but felt very hungry. While working at her desk, Jess felt lightheaded. Jess ate a very large lunch because she was so hungry."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Loose Lips\":",
+        "output": "Louise was having trouble finding work. She finally finds a large batch of hits to work. She figures the work could last all day. She is so excited, she mentions the work on a forum. Within minutes, the large batch is gone."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: The cleaning person we hired started today.",
+        "output": "She cleaned the windows, the floors, and the walls. When she was cleaning, she saw a mouse. She suggested we set up mouse traps. She finished cleaning and then left."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: We were visiting our daughter in 2009.",
+        "output": "She was 25, and married. I saw 50 Shades of Grey on her kitchen table and joked about it. She said her mother in law had just read it. We laughed about my in-law."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: The day dawned dark and gloomy.",
+        "output": "Anna had an outdoor party that afternoon. She hoped it would clear up. As three o'clock approached the skies cleared. Anna was so happy her party wouldn't be ruined!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Bill bought an old bar to renovate.",
+        "output": "Bill thought nobody would come to his bar. He repainted and furnished it anyways. The bar was packed on opening night! Bill's bar was a success!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Computer Games\":",
+        "output": "My parents didn't like me playing computer games all day. However, I am glad that I did. Computer games made me smarter. It also helped teach me how to code. Computer games defiantly made my life better."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Little Lisa's Chicken\":",
+        "output": "Lisa wanted to make fried chicken for dinner. Lisa asked her mom for the ingredients needed to make fried chicken. Lisa's mom gave her the list of ingredients to make fried chicken. Lisa went to the store and bought all the ingredients she needed. Lisa made fried chicken for dinner that night."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The Hotel\":",
+        "output": "Bob was vacationing in Seattle. He booked a hotel located downtown. He flew into seattle and took a taxi to the hotel. But, the taxi got into a car accident. Bob ended up in the hospital instead."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Aaron was proud of his family's history.",
+        "output": "Every time he was taking the subway, he thought about his forefathers. They had worked hard in the tunnels and some had even died. So Aaron was praying for them every time he was in the subway. And was leaving flowers for prosperity."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jack took his stuffed bear to show and tell at preschool.",
+        "output": "He accidentally left his bear in the car. He cried and cried. His teacher helped him draw a picture of his bear. Jack presented the picture for show and tell instead."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Watching it rain\":",
+        "output": "It started raining this morning. I spent some time making coffee and sitting down. Opening the curtains, I saw the pretty rain. It rained all morning. Now I don't need to water my garden!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"music\":",
+        "output": "Jay signed with gray records, a label. The label acted as if jay would be first priority. He found out they didn't care. They shelved his album and wouldn't release it. Jay was very upset."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Sue has a math test.",
+        "output": "She has been studying all week. Sue still isn't ready for her test. When it came time for her test, Sue got sick. She was glad she could take her test later."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Tim's Fire Escape\":",
+        "output": "Tim woke up to the sound of the smoke detector. He could smell smoke in the air. He rolled out of bed and crawled to the front door. He met the rest of his family outside the house. Tim's family went to a neighbor's house to call the fire department."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I lived by myself and one day decided to get a dog.",
+        "output": "I went to the local animal shelter and was brought to a room. I had a really hard time deciding until I saw Cinnamon. She was standing up and seemed happy unlike the rest. I chose to bring Cinnamon home with me that day."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Ethan sat at the piano in his teacher's studio.",
+        "output": "He felt guilty because he had not practiced his assignment. At first he thought he should just pretend that he practiced. He then decided this was wrong and he told his teacher the truth. They spent the entire lesson practicing what he should have done."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Vicky is a single widow.",
+        "output": "Things haven't been the same since her husband passed. Her friends decide to get her out of the house. They take her out to dance. Vicky really enjoys her time out on the dance floor."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"A New Calling\":",
+        "output": "Michael was a plumber who hated his job. He wanted to just play video games all day. He took a risk by uploading a \"Let's Play\" of a popular game. He gained a lot of subscribers and quit his plumbing job. He now plays video games for an actual living."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Bill wasn't sure which barbecue grill he wanted to buy.",
+        "output": "He did some research and decided on a particular model. Bill had the family and some friends over for a cook-out that weekend. Bill spared no expense and grilled steaks and fish and burgers. Bill felt good about his purchase decision and the food was great!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Umpire\":",
+        "output": "The umpire run on the field and tripped. The crowd in the bleachers laughed at his clumsiness. But as soon as he was on his feet the umpire whistled. He gave a few penalties. And on his way to the next play, he fell again."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Ticket\":",
+        "output": "Tim was driving to work. Tim was going to be late. Tim began speeding. Tim was pulled over by an officer. Tim received a speeding ticket."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Timmy was a 10 year old boy.",
+        "output": "Timmy watched a lot of TV. Timmy's favorite program was wrestling. Timmy begged his mother to stay up to watch a special match. His mom said yes and Timmy was happy to see the special event."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Julian was nervous for his first piano recital.",
+        "output": "At only 5 years old, he was the youngest to perform. Julian listened to the other's play their songs and became relaxed. When it was his turn, he took a deep breath. Julian had the best performance of the night."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I heard from my neighbor that there was a bear in the neighborhood.",
+        "output": "I haven't been jogging for days because I'm afraid of the bear. The bear was last sighted 2 weeks ago near my house. I should wait at least another month before I go jogging again. Meanwhile, I do yoga instead."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"First Day of Work\":",
+        "output": "Today I started training for a new job. I was a bit overwhelmed and worried going into the day. However, my trainer was very patient and understanding. He taught me well, and showed me in ways I could understand. By the end of the day, I had mastered most of the skills needed."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: The owner of a bar started a joke contest one night among the guests.",
+        "output": "Each guest gave their best joke. All of the jokes were very funny. The bartender wrote down all the jokes that everyone said. The owner published the jokes in the restaurant's newsletter."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Timmy was a shy boy.",
+        "output": "He had a crush on a girl named Susie. He got up the courage to ask her out on a date. Susie said yes to Timmy's surprise. They went to the fair on their date where they had a great time."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Long Cut\":",
+        "output": "Phil was hired by Pat to install drapes in his house. The drapes that Phil brought were too long. Pat said that the drapes will not do and to take them back. Phil cut the drapes with a pair of scissors to fix them. Pat looked them over again and said they were now fine."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"mall\":",
+        "output": "We went to the mall to buy christmas presents. It was pretty crowded and the parking lot was nuts. We circled the lot trying to find a space. We eventually wanted one but someone wanted to fight us for it. We just let them have it and tried to find a new spot at the mall."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Glowing Eyes\":",
+        "output": "Daniel watched the spinning blades of his cottage. He saw giant bugs flying around it. In the humid air of the amazon, he couldn't sleep. He got up and looked outside. He saw two glowing eyes staring back at him, and he went back to bed."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tom was in a rock band.",
+        "output": "They were going to be inducted into the rock and roll hall of fame. Tom got into some really bad legal trouble right before it happened. He was found guilty of some truly horrible crimes. The band was no longer allowed into the hall of fame."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: My kids played the XBox and broke it.",
+        "output": "They were horsing around and yanked on the controller cords. The yanking of the cords pulled the console off the shelf. We picked it up and plugged it back in, but it wouldn't turn on. My husband took their video games away for the rest of the summer."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Bench Press\":",
+        "output": "James tried out of the weightlifting team at school. He did not make the team though. Coach said that he has to bench two hundred pounds to make the team. James spent the next year lifting weights and becoming stronger. The next year he tried out again and made the team."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Annie loved the ocean.",
+        "output": "Her mom took her to the beach on vacation. Annie spent a lot of time in the ocean. Annie had fun at the beach. She was sad when her vacation was over."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Jean's Major\":",
+        "output": "Jean was studying to be a nurse. She did well in all her classes. Jean began to take her clinicals. She couldn't stomach the things she saw. Jean had to change her major."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Giving Up\":",
+        "output": "Tom always dreamed of being a professional wrestler. He practiced every chance he got. Unfortunately he got his girlfriend pregnant in high-school. Tom was forced to get a job to support them. He kept watching professional wrestling on television."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"riot\":",
+        "output": "There was a big sports game. The home team lost and people got very angry. People started yelling and started a riot. People were trashing stores and stealing products. The police had to get involved."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Daniel used a laptop regularly and started experiencing wrist pain.",
+        "output": "He realized he kept his wrists in an awkward position. Daniel went to the doctor who referred him to a hand specialist. The specialist taught him to position his hands in a more healthy way. He was able to use his laptop without any more pain."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: George loved to draw a lot.",
+        "output": "In fact, he drew almost every single day. One day, he decided that he would draw a lot. He drew so much that he ran out of paper. Then, George had to rush to the store and buy more paper."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"New Pet\":",
+        "output": "Jimmy had been very responsible with his chores lately. His mom decided to get him a pet. She brought him to the pet store. He chose a chameleon. He named it Ziggy."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tilly was shopping at the store before Father's day.",
+        "output": "She was picking up her burgers for her husband. She wanted to get him a gift but had very little money. Suddenly she noticed some speakers on sale. Knowing he liked speakers, she bought them for his gift."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"College\":",
+        "output": "It was Amy's first day in class in college. She was a little nervous since she didn't like crowds or strangers. She entered class and sat towards the rear. The girl in the seat next to her introduced herself. Amy was surprised meeting new people was easier than she expected."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Mary moved into a large apartment.",
+        "output": "Unfortunately it had no closets. Mary bought some wood and nails. Using her skills she built a new closet. Finally she had a place to hang her clothes."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Carrie desperately wanted a pet dog.",
+        "output": "She began writing a long list of reasons why she should have a dog. When she had finished, Carrie brought the list to her parents. Her parents read the entire list, impressed. They agreed that a dog would be great for Carrie."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: A few weeks ago I had to teach all my friends how to sing a song.",
+        "output": "It was a song about how much fun we had at camp this year. All my friends are terrible singers though. We worked on the song all week. At the end of the week, my friends still were not good singers."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Lindsay was really depressed.",
+        "output": "So she decided to go to an Asian buffet by herself. She ate tons of pork, fried rice, dumplings, and sweets. But when she got home, she just felt worse. Nevertheless, she did the same thing the next day."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Bat Scare\":",
+        "output": "Jerry wanted a bat as a pet. His mother didn't want him to have it. Jerry brought a bat home anyways. His mother compromised. He kept the bat outside in a cage."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Robbie's Health\":",
+        "output": "Robbie's wife was concerned about his health. She tried to get him to exercise, but he refused. He drank too much whiskey and only ate barbecue. Robbie had a heart attack when he was forty-nine. He died at fifty-one because he refused to make healthy choices."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"fight\":",
+        "output": "Adam angered a classmate one day. He accidentally pushed the classmate in the hall. The girl, angry, challenged him to a fight. Ben agreed to meet her in the yard after classes. But to his relief, she never showed up!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Barry lost his dog.",
+        "output": "He felt a hole in his heart. He went to the pet store. The dog he found was great. They are best friends now."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Applications\":",
+        "output": "Michael got home and noticed the mail on the counter. There was a large yellow envelope waiting for him. He recognized the special seal on it. Nervously, he opened the envelope and read the letter. He got accepted into college."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Ken wanted to ride an elephant.",
+        "output": "He saw a sign at the circus advertising elephant rides. He went to the advertised area and paid his fee. They put him on an elephant and let him ride around for ten minutes. Ken whooped and hollered with joy like a small boy!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I used an ATM today.",
+        "output": "As I was withdrawing money a man came up to me. He said the ATM was broken, as he could not get money. I said it was working for me. I helped him check his balance, which was in the negative."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tim needed help with his homework.",
+        "output": "He asked his brother John to help him. John told Tim that he couldn't help him right now. John was busy playing video games. Tim ended up failing his homework."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Petey liked to cook.",
+        "output": "He decided to make something special for his wife. He spent the day preparing a lovely dish. When it was ready, he presented it to his wife. Petey's wife was thrilled."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"State Champions\":",
+        "output": "Mario came from another country to to to school in America for a year. He loved to play soccer, so he joined a team at his American school. The team was very good and won the state championship! They had a special parade in their town to celebrate their victory. Winning the championship was a great part of Mario's year in America."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Henry and his friends walked through the park one sunny day.",
+        "output": "To their surprise they saw an ice cream truck down the street. The boys jumped for joy and got excited for ice cream. When the truck stopped, the boys ordered chocolate pops. The boys tasted the pops with incredible delight."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: My friends are totally into the retro scene.",
+        "output": "Last weekend they wanted to go to Disco night at the bar. We all dressed up in our best disco clothes and headed out. It was a lot of fun with funny dancing and outfits. We're planning on going again next week."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The old man\":",
+        "output": "Ben was a grumpy old man who wanted to watch a movie. He tried to watch his movie all day in his living room. Sadly, his neighbors kept bothering him with visits. After so many visits Ben decided he was going to do something about it. After a lot of thinking, Ben finally put a sign on his door that said don't disturb."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jenna signed up for an online class.",
+        "output": "She was highly confident that she can pass the class. However, she became lazy throughout the semester. Some of her online assignments became overdue. The teacher eventually dropped her out of class."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Linda and Remy were bored while camping.",
+        "output": "So they decided to explore areas they were unfamiliar with. Suddenly, saw a bear running towards them. And Linda used bear pepper spray to defend herself. Linda and Remy decided to go back to their original camp site."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Sam's Test\":",
+        "output": "Sam had a test coming up on Friday. Sam did not study during the week. On Thursday night Sam started to study. When Friday came Sam was still not ready for his test. Sam did not do well on his test."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Daisy was named for the white flower with thin petals.",
+        "output": "So it was only natural that she learn to make daisy chains! At age 5, her mom sat her down and showed her how to link the stems. Soon Daisy had the hang of it. She was making floral chains like a goddess!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"New keyboard\":",
+        "output": "Allie needed a new keyboard. She got an iPad. So naturally she needed something to type with. Luckily she found a cheap one. Now she uses it everyday."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: John was at the lake with his family.",
+        "output": "Suddenly a storm came rolling in. The family boat began drifting from the beach. John and his brothers ran out and reinforced the anchors. They managed to keep the boat safe through the storm."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jolene was getting ready to demonstrate her science project.",
+        "output": "She poured vinegar into a large pot in front of the class. Then then put on goggles and told everyone to get ready. She poured baking soda into the pot and bubbles came spewing out. The whole class was surprised but Jolene wasn't."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The Wrecking Ball\":",
+        "output": "The crew was going to knock down the building. They hit it with a wrecking ball. The wall came tumbling down. The ball hit it many more times. Soon, the building was demolished."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Mochi\":",
+        "output": "I was eating in a Japanese bar. My friend suggested we try mochi for dessert. I was eager to try some so I agreed. It was amazing! Alas, the mochi cost too much so we decided not to tip."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Frank's birthday was coming up.",
+        "output": "He wanted to throw a party. He was afraid no one would show up. He nervously passed out invites. Many people came and they had fun!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jake was always afraid of storms.",
+        "output": "Thunder really freaked him out. He tried to face his fears. Lighting hit right near him. Jake ran back in and still fears storms."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Becky never had a shrimp before.",
+        "output": "She liked fish so she thought she should try a shrimp. Her meal was sat down in front of her. She saw the shrimp little legs and its tail. She didn't like shrimp after that."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Coupons\":",
+        "output": "Rose got a fast food hamburger. On her receipt was a survey invitation. She went online and took the survey. In return, they gave her a discount code. Rose's next hamburger was free!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Expedition to Explosion\":",
+        "output": "Reggie joined the military. While in the military, Reggie was sent to Iraq. In Iraq, Reggie was a humvee machine gunner providing security. Reggie turned 19 in Iraq and was on a long patrol. On the patrol an improvised explosive device blew up Reggie's vehicle."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tasha cut lots of wood.",
+        "output": "She started a campfire with it. She roasted marshmallows over the fire. The fire was warm and cozy. Tasha loved having a fire in her backyard!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Carl joined a gym.",
+        "output": "He began to attend the gym everyday. Carl would walk on the treadmill for a half hour a day. He decided to start weight training. Carl asked a friend for help with the weight training."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Janet went to the skating rink.",
+        "output": "She was skating backwards but wasn't looking behind her. Janet ran into a small girl and they both fell over. Janet broker her wrist. Janet now makes sure to look behind her when she is skating backwards."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Today is trash day.",
+        "output": "I had to scurry around the house. I collected all the individual bins. I sorted out the items that can be recycled. I just barely got the trash to the curb in time!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Broken Window\":",
+        "output": "Barry was in his living room, when he heard a noise. Barry noticed a baseball had broken his window in his house. Barry rushed outside to see where the ball came from. Barry noticed the a group of boys playing on the nearby field. Barry returned the ball, and attempted to repair his window."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Harry was presenting his research at a symposium.",
+        "output": "Researchers in the field kept asking him a myriad of questions. It was very mentally taxing. Apparently his PI had told his friends about Harry's work. That's why he was getting questioned all day."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Holy Cross\":",
+        "output": "My cousin Swee went to Holy Cross. She invited us over to watch them play in the NCAA tournament. She had a big spread of Chinese food out. We were very nervous, but cheered when HE won. We were happy driving home."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Beatrice made herself some rice and beans.",
+        "output": "She added garlic and oil before putting in the beans. It tasted so good, she was glad her brazilian friend gave the recipe. She forgot the rice, though. It turned out all burned and crispy."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Kate's drain in the basement was clogged.",
+        "output": "She called a plumber to take a look. Initially he thought it was something small. But it ended up being a very costly fix. She realized she would have to wait longer to have a washer."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Since he relocated for work, Mike was feeling lonely.",
+        "output": "He decided to adopt a cat. He visited the pound. One of the cats kept meowing at him as he walked by. Mike brought home a new friend!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tom is really depressed that women no longer find him attractive.",
+        "output": "So his friend gets a woman to flirt with him. Tom finds out that she was put up to it. Tom is furious that his friend paid a woman to flirt with him. But he comes around when he realizes his friend had good intentions."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: John needed to create a new presentation for his job.",
+        "output": "John struggled to come up with new ideas. John did not meet the deadline. As a result his presentation was incomplete. John was fired from the job."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Regret\":",
+        "output": "Carey was in the 11th grade and had fallen for a boy. She was ecstatic every time they had a chance to talk. One day, the boy invited her over to hang out. She was so nervous she rejected him and he soon moved on. She never forgave herself for not telling him how she felt."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Friendly Game\":",
+        "output": "Tom was playing basketball with friends. It was supposed to be a friendly game. Tom got too into it. He really wanted to win. His friends thought he was annoying over it."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Next on Stage, Amber!\":",
+        "output": "Amber earned a degree in social work. She soon became frustrated with her career as a social worker. Amber quit her job, but was faced with student loan bills. Unable to find work, Amber got a job as an exotic dancer. Amber made more money, but was still not happy with her career choice."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Jerseys\":",
+        "output": "When he went to the game, he thought everyone had new jerseys on. What he didn't know was many of those jerseys are fake. There are a number of sites that sell these fake jerseys. They look similar, but are of poor quality and are much cheaper. So just because they look similar, doesn't mean they are real!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Ed's Birthday\":",
+        "output": "Today is Ed's birthday. Ed's aunt gave him a gift. He hoped it would be a pair of new rollerblades. He opened the gift and it was a pair of socks. Ed smiled and told her it was a great gift even though he was sad."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The Scuba Diver\":",
+        "output": "A scuba diver went to a lake to look at the fish. He jumped off the dock and sank like a stone. At the bottom of the lake he found a car. He opened the door to look around. He found a wallet in the car and nothing else."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The Tooth\":",
+        "output": "Martin wake up in the morning with pain. His tooth hurt. He had to schedule an appointment with his dentist for the afternoon. Doctor changed old filling. Martin felt much better."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Steve's grandma made it tradition to make birthday calls.",
+        "output": "Every year she would call Steve to say happy birthday. This year,  Steve was tired from work and slept all day. He missed his grandma's call and felt terrible. Luckily she understood and still gave him a belated message."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Ben was making pasta for his family.",
+        "output": "He did his best. But he saw that they were all making ugly faces! He asked what he had done wrong. They said he had added way too much garlic!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Daring Escape\":",
+        "output": "A prisoner had escaped from jail. Jim, a policeman, chased after the prisoner as fast as he could. The prisoner leaped over a tall fence. Jim couldn't hop over the fence because he was too fat. It was then that the prisoner escaped for good."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Dog eat dog world\":",
+        "output": "Jamal and Darnell were friends who both grew up in the ghetto. Jamal started dealing drugs, while Darnell worked hard in school. Darnell got a scholarship to a big university and moved away. Years later, Jamal got killed in a drug deal gone wrong. In Jamal's memory, Darnell founded a support group in the ghetto."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I had lived with my best friend for four years.",
+        "output": "When I met my fiancee I knew we were going start a life. When I asked her to move in with me she said yes. I couldn't figure out how to tell my best friend though. So I just moved out while he was working and left a note."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Stanley Lubritorium\":",
+        "output": "Stanley Lubritorium was a gas station on Western Avenue in Brighton. In 1986 I drove by it at night. It still had art deco architecture and lighting. I took several photos. A year later it was demolished."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Sandwich Time\":",
+        "output": "Billy loves sandwiches. He requested sandwiched be served everyday at lunch. The school saw no problems with this request. A sandwich bar was installed in the cafeteria. Now, Billy eats sandwiches everyday for lunch."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Earl cleaned out his car to get rid of all the junk.",
+        "output": "He found an old camera in the back seat that he forgot about. Earl turned the camera on and took a few photos. The flash of the camera hurt his eyes. Earl rubbed his eyes and rested before going back to cleaning."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: John stopped by his favorite bakery to buy some bread.",
+        "output": "He could feel nice smell of the bakery outside. The owner told him they are baking a new kind of bread. John decided to wait there. He really liked a new bread."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Gina was a preschool teacher.",
+        "output": "One day, one of her students came in with a cold. The student was upset about having a cold and began crying. Gina hugged the student to make her feel better. The next day Gina had a cold."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Newspaper Delivery\":",
+        "output": "Jeanette had enjoyed a subscription with her local paper for months. After moving, she noticed the paper was no longer arriving. She called and emailed the newspaper company for help. As she kept missing the paper, she became more and more frustrated. Until she realized she never gave them the new address."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Flipping the Car\":",
+        "output": "Gene repaired cars as a hobby. His friend had a car that needed repair work. He sold the car to Gene for cheap. Gene made the repairs in his spare time. He sold the car for much more than he paid for it."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: The man swung his ax at the tree.",
+        "output": "The ax head got stuck in the tree. The man yanked on the stuck ax. It released from the tree suddenly. The man fell backwards with the ax."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Grandmother's Deer\":",
+        "output": "Everyday my grandmother fed the deer by her house. They began to trust her and came to her porch each morning. One day the deer stopped showing up. Her sister and brother in-law showed up for dinner that night. They bragged about the deer they killed that morning in her driveway."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jerry wanted a new Lego set that he had seen at the toy store.",
+        "output": "He knew that his parents wouldn't give him the money. Jerry decided to save his chore money so that he could buy it himself. He worked and saved for several weeks until he finally had enough. That night he proudly showed his parents the new toy he had earned."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Too much coconut oil.\":",
+        "output": "Jenna had been reading up on hair styling. One tip she read was to use coconut oil. She put a healthy amount in her hair and then showered. When she got out, she saw that her hair was very greasy. She realized that she had put way too much oil in."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Molly wanted a pair of fancy sandals from the store.",
+        "output": "Her mother told her that the sandals would probably hurt her feet. Molly insisted on getting them anyway. After three days, Molly had blisters all over her feet! She was sad and embarrassed she hadn't listened to her mother."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Chemistry\":",
+        "output": "Jeff was failing Chemistry class his Junior year. He had three weeks and two tests left in the semester. His teacher told him to stay after school to study. Jeff stayed every day for three weeks, and improved a lot. He brought his grade up a full letter grade!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jill and Bethany planned on going to a detox camp together.",
+        "output": "They decided to go last weekend. Jill thought it was going to be full of spas and relaxation. She was wrong when she realized it was mostly about exercise. At that point, Jill wanted out."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Grocery Shopping\":",
+        "output": "Fred and Sarah need groceries for their apartment. They put on their boots and begin walking to the grocery store. The store is packed with other customers! Discouraged they decide to go home. They order a pizza instead."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Reading a Story\":",
+        "output": "The children were ready to lay down. Their mother tucked them in and dimmed the light. She gathered a book and sat down to read. The children loved her storytimes. Soon they were fast asleep and mother turned out the light."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"cherries\":",
+        "output": "Anna picked cherries from the tree in her yard. Then she melted down milk chocolate. She dipped the cherries in the chocolate. Then she boxed them and gifted them to her friends. Her friends were thrilled at the tasty treat!"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: A man desired to be smarter.",
+        "output": "He read many books and talked with wise people. He began learning how smart people think and act. He did his best to exercise his mind. He eventually felt mentally quicker and smarter."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Dog Bite\":",
+        "output": "Sam always loved dogs. His grandparents have several dogs at their home. After church one Sunday, Sam went to visit his grandparents. During the visit, one of the dogs bit Sam. Now Sam is timid whenever around dogs."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"An Evening Phone Call\":",
+        "output": "Linda was reading a book in the evening. Her phone started to ring. Her friend Brian was calling. His car was broken. He needed a ride home."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I sat outside of the cafeteria.",
+        "output": "A man approached me with confidence. After he asked me how I'm doing, he became mad. He took my book-bag and ran off. I tried to chase him down but he held a weapon."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Raimy's car.\":",
+        "output": "Raimy wanted to buy a new car. One that he had seen in so many movies. So he saved money, but couldn't afford the car he wanted. So he got another slightly smaller slightly older car. He was happy with his choice."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Gardening\":",
+        "output": "Ester's husband passed away and she needed to get her mind off it. She flipped through magazines for a hobby idea. Finally, she selected gardening as her new hobby. She began planting many flowers in her garden. While she couldn't forget her husband she felt joy from her new hobby."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Making the Team\":",
+        "output": "Gary wanted to make his school's football team. He practice running everyday. He and his friends made sure to put in extra workouts. Gary did very well for the try outs. The coach told Gary he made the team."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Calf\":",
+        "output": "One day Davis woke up. His calf was hurting a lot. Davis rushed to the doctors to see what had occurred. The doctor told him that he had sprained it. Davis had to rest for three weeks for it to heal."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Surprise Twins\":",
+        "output": "Juliet was pregnant and about to give birth. She went into labor one day and contracted for several hours. Finally, she delivered the baby. Suddenly, she realized she was still feeling the urge to push. She gave birth to a completely surprising second baby."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Long Bike Ride\":",
+        "output": "Sam asked his mom for a ride to his pal's house. She said she was too busy to chauffeur him around. So, Sam rode his bike the ten miles to his pal's house. That evening, Sam's mom got a call from her weary son. The chores had to wait while she picked up Sam and his bike."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Kole's new girlfriend is Japanese.",
+        "output": "On their first date, her parents invite him to dinner. Kole has never had Japanese food. His girlfriend shows him how to use the chopsticks. Sushi is Kole's new favorite food."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tom was in a bike accident.",
+        "output": "He injured his ribs. It hurt him when he breathed. Tom had to take pain medicine. It took him over a month to get better."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Juan walked through the school doors.",
+        "output": "It was his first day at a new school. He walked to his locker. He noticed that a cute boy was his locker neighbor. Juan was excited about his new school."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tom lost his wallet.",
+        "output": "The next day he got an alert from his bank. All his money had been spent. Tom's identity had been stolen. He worked with the bank to get it fixed."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I bought my girlfriend a hat for her birthday.",
+        "output": "I took a long time wrapping it. It was expensive and the saleswoman said it was trendy. When she opened the gift she pretended to like it. But it was obvious that she hated it and I failed her."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I looked for an interesting game in the arcade to play.",
+        "output": "I found a dart game that seemed interesting. Since someone else was using the machine, I waited for him. He ignored my presence and continued to play. The machine was out of order since he took all of the tickets."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Lenny struggles to support his family.",
+        "output": "He often takes things home from work. Lenny's boss finds out about this. Lenny is called into his boss's office for a talk. Lenny is fired on the spot."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Penelope's family announced that they were having a new baby!",
+        "output": "Penelope was so excited and told her mom that she wanted a sister. Her mom explained that they wouldn't know the gender for nine months. Penelope hoped and prayed for a sister the whole time. Just before Easter, Penelope got her wish -- a sister named Sadie."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: The woman made a stew.",
+        "output": "She threw everything that was in the fridge into it. Some of those things were rotting. She fed her husband the stew. The husband almost got sick."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Dinner with my cousin\":",
+        "output": "On June 28th we had dinner with my cousin. We had not seen each other in six months. We met in Chinatown and had Cantonese food. We talked about our grandchildren, showing off photos. We ended up staying for three hours, and were sad to say goodbye."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Osmosis\":",
+        "output": "Spud the beautiful was a tiny man. Everywhere he walked, people wished to touch his finely groomed beard. But what hey coveted most of all was his bald head. He knew the dangers of being public. Unfortunately one day, he was kidnapped and shaved."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I received a call from my dentist.",
+        "output": "He told me to review my current bill. Although I paid for it last week, I checked my account. There was an email message that said my bill is past due. I eventually realized that my credit card was declined in the past."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"shell\":",
+        "output": "Ava was playing at the beach one day. She sifted through the shore rocks idly. Then she saw a huge, beautiful seashell among them! Ava washed the shell and took it home with her. There, she set it on her dresser as a memento of the beach."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Hot Days\":",
+        "output": "Andy hated being hot. In the summer he tried to stay inside as much as possible. His friend asked him to go to Hawaii. He didn't want to go because he would be too hot. Andy missed out on a lot because he hated hot weather."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: It was Dave's 25th birthday.",
+        "output": "He wanted to celebrate with his best friends. They decided to go to the casino. At the casino, Dave won a million dollars! Dave invested his money into a high interest savings account."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I was working as a cashier for a grocery store.",
+        "output": "All of the customers were rude and nasty. They made fun of me for making little money. One day I decided that I had enough. I quit the job so I could go back to school."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Social Media\":",
+        "output": "Jennifer is addicted to social media on her cell phone. She is on it during class instead of paying attention. Her grades have been steadily declining as a result. Her parents took her phone away from her until she gets her grades up. Jennifer is upset but understand and gets to studying."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jane is a little girl who lives in a bad neighborhood.",
+        "output": "Jane went out to play, but never left her yard for fear of crime. Jane heard gunshots and ran back into her house. Jane called the police and reported the gunfire. Jane looked outside her window, and saw the shooters being arrested."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Beth was home alone.",
+        "output": "She heard a noise in the kitchen. She was too scared to investigate. She called her brother Jake to come over. She locked her door and waited in her room."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Cameron woke up on Christmas morning, excited to what Santa brought.",
+        "output": "He raced into his room and woke his parents up, immediately. His parents grabbed the camera and followed Cameron down the hall. Cameron was amazed as he saw a new bike and a few new video games. He got his helmet and went out for a ride to test out his new bike."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Hank and his friends went camping in the woods.",
+        "output": "They all drank water out of a nearby stream and got sick. Hank and his friends still talk about that camping trip. Hank and his friends decided to camp in the same spot again. They all brought their own water this time."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Alicia And The Bee\":",
+        "output": "Alicia was outside watering flowers. Alicia accidentally broke a flower pot while watering. Inside the flower pot was a bees nest. Alicia had gotten stung by a bee. Alicia was in a lot of pain after getting stung by the bee."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The Bugs\":",
+        "output": "Sierra was playing with her cat in the living room. She was petting the cat's fur when she noticed some little black dots. Upon closer inspection she realized her cat had fleas. She made an appointment with the vet right then. The bugs cleared up quickly with some medication."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Nelson was walking to school.",
+        "output": "He didn't notice a crack on the sidewalk and fell. His left arm was dislocated from his arm. In addition, his phone fell down a drain. An old lady noticed and tried to help him out."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Bryce's Rough Week\":",
+        "output": "Bryce was having a hard time swinging the bat. Bryce talked with his hitting coach. Bryce spent extra time hitting with the assistance of his coach. Bryce came up to plate to bat in an important spot. Bryce hit the ball all the way to the wall."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Jill was expecting a baby.",
+        "output": "She wanted Jake, her husband, to be present at the delivery. Jake was hesitant, but he finally agreed to be at the delivery. Jake was a proud to be there with Jill when his daughter was born. Jake passed out when the doctor asked him to cut the cord."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I was in fifth grade.",
+        "output": "We were running the half mile in gym class. I paced myself most of the race. In the final block I sprinted as fast as I could. I won by an inch."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Enchiladas\":",
+        "output": "Whitney wanted to impress her friends. She brought out her best recipe for enchiladas. She followed the recipe just so. She served everyone. She tasted them and realized she forgot the cheese!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Got Caught\":",
+        "output": "Lucy was forced to stay in her room for a day. She begged her grandma to let her go back outside. Her friend Lisa only came for the weekend. Lucy didn't want to miss a whole day of play. Her angry grandmother sent her to her room with no dessert."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Lucy was watching Funny Girl with her grandparents.",
+        "output": "Her grandma made the movie sound interesting. It was anything but. Lucy decided not to finish the movie. She crept out without them noticing as they laughed at the movie."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"quiet\":",
+        "output": "Ben was on a road trip with his parents. His mom challenged him to a game called the quiet game. Whoever could be quiet for longer won. Ben tried very hard to stay quiet. But soon he spoke, and his mom won the game!"
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Feeding Birds\":",
+        "output": "Jorge sat on a bench in the park. He watched the birds milling around on the grass. He fed the birds with bread he had brought in a bag. The birds were scared by a cyclist coming around the corner. Jorge covered his head with his arms as the birds flew into him."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Tom got a shirt as a gift.",
+        "output": "He didn't really like it. Tom tried to return it but didn't know what store it was from. He looked it up online. Tom was able to figure it out and get store credit."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Josh and Brent are playing by the lake outside the family cabin.",
+        "output": "Josh notices tiny lights moving around near a tree. Josh and Brent run over to the tree to take a look. Brent notices that the light is coming from a firefly. They catch one and run back home to show their parents."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Riding\":",
+        "output": "Dan was riding his brand new bicycle to the store for candy. Dan is always excited to get candy. In his excitement he forgot to lock his bicycle. When he came out of the store his bicycle was gone! Dan never saw his brand new bicycle again."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Bath Time\":",
+        "output": "Camille started a bath. She looks forward to her relaxing bath every week. This week she added flower petals, essential oils, and a bath bomb. Camille got in with a book and soaked for an hour. She felt refreshed and ready for bed."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Actress\":",
+        "output": "It was the first night of Emily's play. She played the lead actress. She waited backstage nervously for her cue. Her cue came and she stepped onstage. She got into character and acted beautifully."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Hot chocolate\":",
+        "output": "Kim's mom made hot chocolate. She warned her it was hot. Kim ignored the warning. She drank it anyway. She burned her tongue."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Ice Cream Andy\":",
+        "output": "Andy went to school to be a lawyer. He got his first job in his uncle's firm right after college. Andy was only a lawyer for a few Years before he quit. He decided that defending criminals was not his idea of fun. Now Andy owns an ice cream shop in a small town and is very happy."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Trick or Treat\":",
+        "output": "Joe's favorite holiday was Halloween. He planned his costume weeks in advance. He met his best friend Luke at 6:00 sharp on Halloween. They spent three hours Trick or Treating. It would take them months to eat all of the candy they collected."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Ryan Writes A Letter\":",
+        "output": "Ryan decides he would like to contact an old friend. He writes his friend a long letter. He sends his friend the letter in the mail. His friend receives it later that week. Ryan is happy he contacted his friend."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Margaret had a son.",
+        "output": "The son was playing with fire. Margaret told him to stop. The son kept playing with fire. So by accident he lit the living room on fire."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Alexis had been reading the same book for the longest time.",
+        "output": "She was so eager to get it done. Finally one day she decided to only read. After hours and hours she completed it. Alexis jumped for joy."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Navy Seals\":",
+        "output": "Jon wanted to become a navy seal. He went to a navy recruiter. The recruiter accepted Jon. Jon went through navy seals boot camp. Alas, Jon was killed in a live-fire exercise."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Mike's hamster escaped from its cage.",
+        "output": "That night they put her favorite food in a tall bowl. They stacked some books so she could climb up. But if she went in, she wouldn't be able to climb back out. The next morning, they found her sleeping in the bowl."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Cookie Party\":",
+        "output": "Fiona wanted to bake some cookies for her daughter. Her daughter invited several friends over to help. They decided to bake chocolate chip, peanut butter, and sugar cookies. Fiona and the kids made dozens upon dozens of cookies for hours. They each ate at least three of each kind when they were done."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Ethan was turning 27 that morning.",
+        "output": "He was just planning on having a normal day. He got off work and drove home. He opened the door of his apartment and all his friends jumped out. He had a good birthday,"
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Vanessa was trying to travel to visit her aunt.",
+        "output": "The nearest airport could only get her a few hours away. From the airport she decided to take a shuttle van. The ride was awkward and quiet but passed quickly. Finally, she arrived at her aunt's house."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Early Labor\":",
+        "output": "Miranda was pregnant with a few more months to go. She was at a doctor's appointment when they noticed some contractions. Her doctor sent her over to the emergency room just to be safe. They hooked her up to some monitors, fearing for the worst. Luckily she only had a few small ones and seemed to be fine."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Lindsey took a class in karate.",
+        "output": "One day walking home from work, a man stopped her. He told her to give him all her valuables. Lindsey gave him a hard kick in the groin. The man kneeled over in pain and Lindsey ran away."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Come Home\":",
+        "output": "Jess dialed jack's phone number again and listened to the voicemail. Jess cried and grieved upon hearing his voice. She clutched a newspaper clipping of the car accident he died in. She dialed the number again. Jack's phone was disconnected, and she could no longer hear his voice."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Brandon was always afraid of fire.",
+        "output": "There was a fireplace in the home where Brandon lived. He would avoid the entire room where the fireplace was located. Brian's brother was burned badly in a fire once. Brandon has learned to deal with his fear."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Broken Scale\":",
+        "output": "Joan hated to see the numbers on her scale. After a week of dieting, the number hadn't budged. Joan went to the gym and worked out for a month. Still, the number on her scale hadn't budged. Joan got off the scale, and saw the number stayed the same."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Youtube babies\":",
+        "output": "Latoya and Adam met at a youtube event. They both had a youtube channel of their own. The two of them had great chemistry and started dating. A year later they moved in together and got married. They have been together for 5 years now and have 2 babies together."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Ashton got a new pet hamster.",
+        "output": "The hamster is very shy and timid. She tries to play with him but he doesn't want to leave the cage. She ended up buying a new toy to lure him out. The hamster came out of the cage to play with the toy."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: I recently bought a new cloudbook.",
+        "output": "It had a generic photo for a background. I decided to personalize the background. I had to email a photo to save to my new computer. I was happily able to do so."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Ask About Him\":",
+        "output": "Lucy's crush wasn't at work. She looked all over the Blockbuster and he was nowhere to be seen. She was out of time because her grandma was ready to leave. She asked the cashier if he was working today. Lucy's heart broke when she was told he worked later that day."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Sarah was very afraid of snakes.",
+        "output": "She desperately wanted to overcome her fear, so she went to the zoo. After a bit of searching, she found where the snakes were kept. She peered at one through the glass. In person, she realized they weren't so scary after all."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"The Bully\":",
+        "output": "George was a mean boy. He always bullied people at school. One day he pushed another boy down. He was suspended for two days. George decided to be a nicer person."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Chuck lay in his beach chair reading a good book.",
+        "output": "The sun beating down caused him to slumber. The tide came in and surrounded the beach chair. Chuck continued to slumber for many hours. Awakening after the tide receded he wondered why his clothes were wet."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"New Shoes\":",
+        "output": "Jim wanted to get unique shoes that would standout at school. So he went to the shoe store and looked around. He saw gray basketball shoes and bought them. Everyone liked Jim's shoes and began to buy the same style. Jim didn't feel so unique afterwards."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Finally free of abuse\":",
+        "output": "Angelique married her high school sweetheart named Juan. Juan was always abusive to her and it worsened over the years. Over the years they had 4 children together despite the abuse of Juan. Angelique finally got tired of it and decided to leave Juan one night. Ten years later and Angelique is still free from Juan and his abuse."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Louisa realizes she is spending too much money eating lunch out.",
+        "output": "She decides to begin packing lunch for herself. Louisa cooks a big batch of food and separates it into portions. She finds that her home cooked food is much cheaper than eating out. Louisa is happy to be saving money on lunch."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Paperback Book\":",
+        "output": "I bought a paperback back on Amazon recently. It was a used book listed in good condition. The book looked nice when I opened the package. When I started to read, the pages all fell out of the binding. I complained to the merchant and got a full refund."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Another Store\":",
+        "output": "The grocery store was out of Gina's brand of water. She needed to go to another store. She drove past the expensive store to find a more affordable one. She pulled into the parking lot at the economy store. It was out of the way, but she was happy to save some money."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Gary wanted to make his school's football team.",
+        "output": "He practice running everyday. He and his friends made sure to put in extra workouts. Gary did very well for the try outs. The coach told Gary he made the team."
+    },
+    {
+        "input": "Write a five-sentence story about an everyday topic \"Login\":",
+        "output": "Phil went to his bank. They asked for his info. He couldn't tell them. They told him to login to his account online. He forgot the login."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Stan was sitting alone in his room, again.",
+        "output": "He never had anything to do. Today though, something came over him. He was inspired to entertain himself via his own imagination. He made a wonderland of his room and was never bored again."
+    },
+    {
+        "input": "Write a four-sentence story that captures daily events, starting with the following beginning: Mary baked her first pie.",
+        "output": "It didn't turn out as well as she thought it would. The crust was burned and the fruit inside wasn't that great. However, she remembered that practice makes perfect and tried again. Each pie after came out better, and she was happy she didn't give up."
+    }
+]

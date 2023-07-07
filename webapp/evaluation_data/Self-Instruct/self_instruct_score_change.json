@@ -1,0 +1,32 @@
+{
+    "prediction": {
+        "improve": 0,
+        "decrease": 0,
+        "unchange": 0
+    },
+    "1. Relevance: The response should be relevant to the user's instruction or query.": {
+        "improve": 96,
+        "decrease": 156,
+        "unchange": 948
+    },
+    "2. Clarity: The response should be clear and easy to understand.": {
+        "improve": 107,
+        "decrease": 91,
+        "unchange": 1002
+    },
+    "3. Correctness: The response should be factually correct and free of errors.": {
+        "improve": 26,
+        "decrease": 48,
+        "unchange": 1126
+    },
+    "4. Politeness: The response should be polite and respectful.": {
+        "improve": 50,
+        "decrease": 179,
+        "unchange": 971
+    },
+    "5. Completeness: The response should provide a comprehensive and detailed answer to the user's instruction.": {
+        "improve": 39,
+        "decrease": 165,
+        "unchange": 996
+    }
+}

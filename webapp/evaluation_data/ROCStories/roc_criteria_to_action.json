@@ -1,0 +1,44 @@
+{
+    "1. Clarity: The story should be clear and easy to understand, with no confusing or ambiguous elements.": {
+        "pass": "0.95%",
+        "delete": "0.03%",
+        "revise": "0.02%",
+        "add": "0.00%"
+    },
+    "2. Relevance: The story should be relevant to the given beginning and the daily events it aims to capture": {
+        "pass": "0.96%",
+        "delete": "0.01%",
+        "revise": "0.03%",
+        "add": "0.00%"
+    },
+    "3. Coherence: The story should have a logical flow and provide closure.": {
+        "pass": "0.96%",
+        "delete": "0.01%",
+        "revise": "0.03%",
+        "add": "0.00%"
+    },
+    "4. Length: The story should be an appropriate length for the given task.": {
+        "pass": "0.46%",
+        "delete": "0.00%",
+        "revise": "0.54%",
+        "add": "0.00%"
+    },
+    "5. Engagement: The story should be engaging from beginning to end.": {
+        "pass": "0.97%",
+        "delete": "0.00%",
+        "revise": "0.02%",
+        "add": "0.00%"
+    },
+    "6. Character development: The characters in the story should be well-developed.": {
+        "pass": "0.96%",
+        "delete": "0.01%",
+        "revise": "0.03%",
+        "add": "0.00%"
+    },
+    "7. Grammaticality: The story should be grammatically correct": {
+        "pass": "0.97%",
+        "delete": "0.01%",
+        "revise": "0.03%",
+        "add": "0.00%"
+    }
+}

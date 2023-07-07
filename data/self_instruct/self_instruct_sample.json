@@ -1,0 +1,292 @@
+[
+    {
+        "input": "Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way.\nOutput:",
+        "output": "Looking for collaborators on a new crowdsourcing project! This is a great opportunity to get involved in something innovative and impactful. If you're interested, please let me know.",
+        "motivation_app": "Twitter"
+    },
+    {
+        "input": "Decide whether children can watch the given movie. Mention what makes it inappropriate if you think they can't.\n\nInput: The Dark Knight (2008)\nOutput:",
+        "output": "No, children should not watch The Dark Knight. The movie is rated PG-13 for intense sequences of violence and action, some menace, and brief language.",
+        "motivation_app": "IMDB"
+    },
+    {
+        "input": "A confirmation email should be written appropriately for the situation.\n\nInput: A meeting has been scheduled, and the sender expects the other to review the slides.\nOutput:",
+        "output": "Hi [name],\n\nI hope you're having a great week so far. I wanted to follow up on our meeting and let you know that we've scheduled a time for you and your team to come in next week. I'll have some slides prepared for you to review, and if there are any questions, I'd be happy to answer them! Just email me back at [email] when you have a moment.\n\nThanks so much for all of your help with this project\u2014we're excited to get started!",
+        "motivation_app": "Gmail"
+    },
+    {
+        "input": "Write a to-do list based on the given information.\n\nInput: Daily tasks in the pharmacy\nOutput:",
+        "output": "- Police sidewalk and entrance for litter \n- Assess window displays to make sure they are not outdated or faded\n- Clean all doors and remove outdated and unnecessary signs \n- Fill bags at each checkout area \n- Clean and straighten checkout counters \n- Tidy up seating/waiting area \n- Face (pull product forward) in all departments \n- Check one department a day for short and outdated product \n- Empty all trash receptacles\n- Vacuum (when the store is closed or only if customer traffic allows for it during store hours)",
+        "motivation_app": "Notion"
+    },
+    {
+        "input": "Please let me know your thoughts on the given place and why you think it deserves to be visited.\n\nInput: Barcelona, Spain\nOutput:",
+        "output": "There\u2019s nowhere in the world like Barcelona. From days spent strolling the Gothic Quarter to afternoons at the beach and nights partying \u2018til dawn, the city is magnetic. While tapas and bustling mercados are worth every bit of attention they get in guidebooks, Barcelona\u2019s true crown jewel is the work of Antoni Gaud\u00ed. His iconic creations, like the jaw-dropping Basilica of La Sagrada Familia, are instantly recognizable and have fueled millions of travel dreams. You won\u2019t be the only tourist here (especially during the summer), but even amid the crowds you\u2019ll find your own Mediterranean magic any time of year.",
+        "motivation_app": "tripadvisor.com"
+    },
+    {
+        "input": "You should write a Product Description that will persuade the buyer that the product is beneficial.\n\nInput: Flipslide Game, Electronic Handheld Game | Flip, Slide, and Match the Colors to Beat the Clock - 4 Game Modes - Multiplayer Fun\nOutput:",
+        "output": "Flipside is an addictive, multi-player puzzle game of skill! Flip, slide & match the colors to beat the clock. Four thrilling game modes including, Speed Mode, Multiplayer Mode, Level Mode and Memory mode make challenging yourself or playing with friends a fun distraction for everyone! Play at home, on the road, or wherever you'd like! Recommended for ages 8+.",
+        "motivation_app": "Amazon"
+    },
+    {
+        "input": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\nInput: - news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween\nOutput:",
+        "output": "Halloween is right around the corner, and we're celebrating with some exciting news: applications are now open for our summer internships!\nIf you want to work with us this summer, we'd love to hear from you. We're looking for people who are passionate about [company name], and committed to helping us grow. If that sounds like you, check out all the details on our website: [website address].",
+        "motivation_app": "Twitter"
+    },
+    {
+        "input": "Provide instructions for the given exercise.\n\nInput: Leg Raises\nOutput:",
+        "output": "To start toning your abs by hitting up the lower abdominal muscles, Riggins suggests 30 seconds of leg raises. Here's how: Turn on your back with legs straight and your feet and ankles together. Raise your legs up and down in a vertical position from your body, while keeping your belly button. Slowly bring legs back down, but if that is too difficult, tuck your knees. (And be careful not to strain your lower back!)",
+        "motivation_app": "Workout"
+    },
+    {
+        "input": "Come up with healthy and easy dinner ideas for weeknights.\nOutput:",
+        "output": "- Chicken & Veggie Stir-Fry\n- Classic Chicken Noodle Soup\n- Low-Carb Eggplant Lasagna\n- Avocado Lime Salmon\n- Zesty One-Pot Shrimp Pasta\n- Grilled Filet Mignon Street Tacos\n- Bruschetta Pasta",
+        "motivation_app": "Tasty"
+    },
+    {
+        "input": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nInput: A video showing how to make a tasty cup of coffee\nOutput:",
+        "output": "- How do you make a great cup of coffee? We asked a professional.\n- Real life stories of the greatest coffee shops in the world.\n- You'll definitely want a cup of this after watching it so be sure not to miss this.\n- Coffee is something most people drink every day. This video tells you everything about it.\n- Watch this video on 7 habits to make you a better barista.",
+        "motivation_app": "YouTube"
+    },
+    {
+        "input": "Design a template table for keeping track of all subscriptions.\nOutput:",
+        "output": "Service | Category | Status | Billing | Pricing | Renewal Date | Next Renewal | Monthly Costs | Yearly Costs | Nptes",
+        "motivation_app": "Notion"
+    },
+    {
+        "input": "Write a section for a blog post and try to cover all of the provided information about this section in your text.\n\nInput: Blog Topic: 7 Fall Fashion Trends Worth Taking on Your Trip\nSection Title: Trusty Jeans\nMain point of the section: jeans can be worn all year and look good with everything .\nOutput:",
+        "output": "Jeans are one of the most iconic fashion items for a reason \u2013 they look great with everything and can be worn year-round. While this Fall, the trends lean toward a baggier fit, bringing along your favorite, trusty jeans is a must no matter where you\u2019re headed. If you can\u2019t get on board with the baggy jean trend, at least opt for a straight leg and ditch the skinnies.",
+        "motivation_app": "Blogger"
+    },
+    {
+        "input": "For a quick and efficient office workout, suggest a short routine.\nOutput:",
+        "output": "Desk pushups: 20 reps.\nSeated knee-to-chest: 10 reps.\nSquats: 10 reps.\nDesk plank: 30 seconds.\nSeated flutter kicks: 10 reps on each side.\nRomanian deadlifts: 10 reps.\nJumping jacks: 20 reps.",
+        "motivation_app": "Workout"
+    },
+    {
+        "input": "Recommend some helpful activities or conversation starters to use at meetups to break the ice.\nOutput:",
+        "output": "- \u201cLet me tell you something very interesting\u2026\u201d (nature, history, ecology, language ,geography etc)\n- Joke (neutral not abrasive)\n- ask for help with something\n- ask open ended questions",
+        "motivation_app": "Meetup"
+    },
+    {
+        "input": "A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. Write a user story for a given software.\n\nInput: Gmail\nOutput:",
+        "output": "As a user, I want to be able to recover the password to my account, so that I will be able to access my account in case I forgot the password.",
+        "motivation_app": "Jira"
+    },
+    {
+        "input": "Give a brief summary of the movie or series' plot.\n\nInput: Breaking Bad (TV Series 2008\u20132013)\nOutput:",
+        "output": "Walter H. White is a chemistry genius, but works as a chemistry teacher in an Albequerque, New Mexico high school. His life drastically changes when he's diagnosed with stage III terminal lung cancer, and given a short amount of time left to live: a mere matter of months. To ensure his handicapped son and his pregnant wife have a financial future, Walt uses his chemistry background to create and sell the world's finest crystal methamphetamine. To sell his signature \"blue meth,\" he teams up with Jesse Pinkman, a former student of his. The meth makes them very rich very quickly, but it attracts the attention of his DEA brother in law Hank. As Walt and Jesse's status in the drug world escalates, Walt becomes a dangerous criminal and Jesse becomes a hot-headed salesman. Hank is always hot on his tail, and it forces Walt to come up with new ways to cover his tracks.",
+        "motivation_app": "IMDB"
+    },
+    {
+        "input": "Using the provided topic as a starting point, brainstorm ideas for videos that can be made about it on YouTube.\n\nInput: In spite of the fact that procrastination feels bad to you, why do you do it?\nOutput:",
+        "output": "+ The reason why you procrastinate\n+ A documentary about procrastination\n+ How to quit procrastination\n+ Recording people talking about their procrastination habits\n+ Interview people while they are procrastinating\n+ People who have failed to accomplish their New Year's resolutions explain why",
+        "motivation_app": "YouTube"
+    },
+    {
+        "input": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda.\nOutput:",
+        "output": "[10 min] Status check\n- Current and upcoming work\n- Have spare bandwidth\n- Any blockers?\n[5 min] Big project status + general updates\n[5 min] Discuss blockers, otherwise social time\n[2 min] Add follow Ups",
+        "motivation_app": "Notion"
+    },
+    {
+        "input": "Give me an idea of the mental exercises you do to inspire yourself.\nOutput:",
+        "output": "1- Identify your strengths\n2- Understand you motivation style\n3- Build worthiness\n4- Dream ahead",
+        "motivation_app": "Wysa"
+    },
+    {
+        "input": "Desk jobs require writing a lot of emails, so it isn't surprising we get tired of repeating ourselves. Come up with several synonyms for the given word.\n\nInput: Sincerely\nOutput:",
+        "output": "Best regards, All the best, Cheers, Best",
+        "motivation_app": "Grammarly"
+    },
+    {
+        "input": "Design an outline for a blog post based on the given information and list the sections accordingly.\n\nInput: This blog post is going to about making a list of last-minute gift ideas. Also, the tone of the post is going to be relaxed and casual.\nOutput:",
+        "output": "Section: Gift card to a favorite restaurant or store\nSection: Movie tickets\nSection: A massage or mani/pedi\nSection: A fun game console\nSection: Books\nSection: Candles, flameless candles\nSection: Portable battery charger for phones/tablets\nSection: Water filter pitcher\nSection: Personalized items with photos/artwork\nSection: Favorite team gear (hat, sweatshirt)\nTakeaway: Don't stress about out running out of time to buy, make a gift.",
+        "motivation_app": "Blogger"
+    },
+    {
+        "input": "Develop a mental exercise that can help people manage their anxiety and explain how it works.\nOutput:",
+        "output": "Submodalities\nGiving a physical form to your anxiety can help your mind feel more in control of it. In this exercise, we will visualize what anxiety looks and feels like, and learn to reduce its intensity. Here are the questions that you need to answer:\n1- Everyone feels anxiety differently. Where in your body do you feel it?\n2- Now close your eyes and picture your anxiety. Try to give it color, shape, and temperature. What does it feel like?\n3- Does it move, or is it in one place? If it moves, tell how it is moving.\n4- Now for the good part, close your eyes and try changing this picture. Change how it moves. Slow it done shrink its size. Try to move it away from your body. Imagine it fading. Keep doing this until you feel like you can change how it feels. Changing which submodality helped you curb your anxiety? Was it its shape, size, or something else?\n5- Do you feel better now?",
+        "motivation_app": "Wysa"
+    },
+    {
+        "input": "Suggest some product bundles that are often purchased with a given product.\n\nInput: MacBook Air\nOutput:",
+        "output": "MacBook Air, MacBook Air sleeve, MacBook Air case, MacBook Air external drive",
+        "motivation_app": "Amazon"
+    },
+    {
+        "input": "Suggest a recipe for a vegan dessert.\nOutput:",
+        "output": "Honey Lime Fruit Salad\nIngredients: (for 4 servings)\n\u00bd lb fresh strawberry(225 g), quartered\n2 kiwis, peeled and diced\n2 mangoes, diced\n2 bananas, sliced\n\u00bd lb fresh blueberry(225 g)\n2 tablespoons honey\n1 lime, juiced\n\nPreparation:\nPlace sliced fruits in a large bowl.\nIn a small bowl, mix honey and lime juice. Pour syrup over the fruit and mix.",
+        "motivation_app": "Tasty"
+    },
+    {
+        "input": "Provide a cooking hack for improving the flavor of the given food.\n\nInput: popcorn\nOutput:",
+        "output": "Everyone knows butter on popcorn is delicious. But supposedly adding some soy sauce to popcorn butter makes for a next-level popcorn topper. According to several sites, like Food52, the addition of salty soy sauce to creamy butter brings out the savory, cheesy, and nutty flavors in popcorn.",
+        "motivation_app": "Tasty"
+    },
+    {
+        "input": "Write a  review based on the given information.\n\nInput: - Product: Persil Discs Laundry Detergent Pacs, Original Scent, High Efficiency (HE) Compatible, Laundry Soap, 62 Count\n- Sentiment: Positive\nOutput:",
+        "output": "I love this brand of soap it's always gotten my kids' clothes clean. When I'm done washing with the soap my kids is closed look feel and smell and feel clean and I like that that's what I want is to be able to wash my kids' clothes and not stress that it didn't come out clean or it's still kind of stinks or it just didn't seem like it washed very well. And would this pod of soap it's really easy to use I just put two pods in the wash and if it's a big wash and my kids' clothes are really dirty I just use three and it gets my kids's clothes washed the first time and I really like that. I think it's definitely worth the money. I am glad that I purchased it. It works so well. I love using it. It's a really good buy for me and for getting my family's clothes clean especially my kids' clothes clean. Great buy!",
+        "motivation_app": "Amazon"
+    },
+    {
+        "input": "In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.\n\nInput: a sudden temperature change\nOutput:",
+        "output": "- Make sure that you have a good variety of options, and pack for the weather of your destination.\n- Rapid temperature changes can have major impacts on your body. Make sure you are aware of your particular responses to temperature change and pack accordingly. \n- Make sure to pack ointments, creams and lotions to help keep your skin healthy while you are on the go. \n- With extreme heat, you may experience rash, fainting, headaches, and fatigue as well as nausea, sweating, and loss of coordination. Be particularly aware of heat exhaustion and heat stroke as these are serious medical conditions that can have serious consequences. In cold climates, be aware of frostbite and hypothermia, intense shivering, goosebumps, difficulty using your hands, and false sense of warmth can indicate a developing cold illness.",
+        "motivation_app": "Weather"
+    },
+    {
+        "input": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated.\nOutput:",
+        "output": "Hi there,\n\nI hope you're all doing well. I'm inviting you over for dinner on Friday night. Please let me know if you can make it. I'll be cooking your favorite dishes!\n\nLooking forward to seeing you,",
+        "motivation_app": "Gmail"
+    },
+    {
+        "input": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nInput: Another repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait.\nOutput:",
+        "output": "Hi [customer's name], thank you so much for the wonderful feedback. We\u2019re happy to hear that you enjoyed your experience with us and that you love [restauran't name] so much! We\u2019re beyond thankful for your support and can\u2019t wait to see you back again soon! Thanks!",
+        "motivation_app": "yelp"
+    },
+    {
+        "input": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nInput: Review 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well.\nOutput:",
+        "output": "Positive points: \n- Innovative story\n- Strong script\n- Engaging characters\n- Intense cinematography\n- Good theme\n- Great acting\n- Important messages\n- Fascinating visual effects \n\nNegative points: \n- Ed Norton grates on the viewer\n- Starts to fall apart halfway through\n- Childish and contrived towards the end\n- Loses touch with its base elements\n- World of confusion\n- Overrated",
+        "motivation_app": "IMDB"
+    },
+    {
+        "input": "Write a LinkedIn post to announce that you have accepted a new job offer.\nOutput:",
+        "output": "\u201cI\u2019m excited beyond words to share with you my decision to accept the role of Marketing Director at the XYZ Company!\nI couldn\u2019t have had this opportunity if not for the help of my friend, [name], who shared this job opportunity with me, and my former boss, [boss\u2019s name], for her stellar recommendation and guidance.\nI happily look forward to starting this new journey and growing professionally with my new family\u2014the marketing rock stars of XYZ Company.\u201d",
+        "motivation_app": "LinkedIn"
+    },
+    {
+        "input": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way.\n\nInput: I'm looking for a west coast road trip. My goal is to start near San Diego and travel to Los Angeles.\nOutput:",
+        "output": "Begin near the city of San Diego and make the first stop in coastal La Jolla. This upscale little village is a great a place for an overnight, a day of sunbathing at La Jolla Shores Beach, or a cocktail with a view.\nJust 20 minutes north, stop into beachy Encinitas to window shop the boutiques or sample fish tacos. Walk through the coastal meditation garden at the Self-Realization Fellowship or join surfers in the line-up at one of the fantastic local beaches here\nJust up the coast is cute little San Juan Capistrano, home to one of California\u2019s favorite missions. In spring, more than 6,000 swallows migrate here from Argentina! As you approach LA, don\u2019t miss swank Laguna Hills. Home to the one-of-a-kind Pageant of the Masters art event, Laguna is brimming with artists and charm. It\u2019s a great place for an overnight. Plus, Crystal Cove Beach in nearby Newport Beach is one of California\u2019s finest!\nAfter that, the choice is yours: Disney lovers should head directly to Disneyland in Anaheim to meet Mickey. To join the beautiful people and snap a photo of an iconic California scene, head to Santa Monica Pier and walk the boardwalk or ride the world\u2019s only solar-powered Ferris wheel. A San Diego to LA road trip is the perfect way to enjoy all things Southern California.",
+        "motivation_app": "tripadvisor.com"
+    },
+    {
+        "input": "Make a questionnaire to help hotel guests write hotel reviews.\nOutput:",
+        "output": "1- Your overall rating of this property:\n2- Title of your review:\n3- Summarize your visit or highlight an interesting detail:\n4- Your Review:\n5- What sort of trip was this? Business/Couples/Family/Friends/Solo\n6- When did you travel?\n7- Could you say a little more about it? (optional)\nWe'd love your opinion! Anything you can share will help other travelers choose their perfect hotel. Thanks.\nHotel Style & Amenities: \nDoes this hotel have laundry service? Yes/No/Not Sure\nDoes this hotel have a game room? Yes/No/Not Sure\nDoes this hotel have a sun terrace? Yes/No/Not Sure\nIs the front desk of the hotel staffed 24-hours a day? Yes/No/Not Sure\n8-  How expensive is this hotel? Budget/Mid-range/Luxury\n9- Add a tip to help travelers choose a good room PE.g., best views, quieter floors, accessibility, etc.)\n10- Do you have photos to share? (optional)",
+        "motivation_app": "tripadvisor.com"
+    },
+    {
+        "input": "You need to write an email to negotiate your salary.\nOutput:",
+        "output": "Dear [hiring manager's name],\n\nI wanted to take a moment to thank you for the offer. I'm honored that you would consider me for this position, and I'm excited to be working with you.\nI know that it's not easy to get a sense of how much salary should be offered in a given situation, so I wanted to explain why I believe my skill set is worth more than the offered salary. \nMy experience as a [position title] will prepare me well for this role, which requires extensive project management skills, as well as strong written communication skills and a deep understanding of the company's product offerings. These are all areas where I've already built up substantial experience over the past few years and am confident that they would serve me well in your company. \n\nI hope we can reach an agreement soon!",
+        "motivation_app": "Gmail"
+    },
+    {
+        "input": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nInput: Temperature: 57 F, Showers\nOutput:",
+        "output": "- Take a walk in the rain\n- Jump in puddles\n- Put on your own musical in the rain\n- Paint with Mud\n- Build a shelter \n- Make Nature Boats \n- Create a Dam",
+        "motivation_app": "Weather"
+    },
+    {
+        "input": "Make a list of adjectives that can be used to describe the given brand.\n\nInput: a creative tech startup\nOutput:",
+        "output": "1. Innovative\n2. Creative\n3. Disruptive\n4. cutting-edge\n5. revolutionary\n6. game-changing\n7. industry-leading\n8. trailblazing\n9. groundbreaking\n10. world-changing",
+        "motivation_app": "Amazon"
+    },
+    {
+        "input": "Describe the responsibilities of the given job.\n\nInput: Security Officer\nOutput:",
+        "output": "A security officer maintains a safe environment on behalf of their employers. They ensure the staff, customers, visitors and business premises are secure. They patrol perimeters, use surveillance equipment to monitor activity and perform security checks required for visitors to the site.",
+        "motivation_app": "Indeed"
+    },
+    {
+        "input": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nInput: Chewy Chocolate Chip Cookies\nOutput:",
+        "output": "Ingredients (for 12 cookies):\n\u00bd cup granulated sugar(100 g)\n\u00be cup brown sugar(165 g), packed\n1 teaspoon salt\n\u00bd cup unsalted butter(115 g), melted\n1 egg\n1 teaspoon vanilla extract\n1 \u00bc cups all-purpose flour(155 g)\n\u00bd teaspoon baking soda\n4 oz milk or semi-sweet chocolate chunks(110 g)\n4 oz dark chocolate chunk(110 g), or your preference\nPreparation:\nIn a large bowl, whisk together the sugars, salt, and butter until a paste forms with no lumps.\nWhisk in the egg and vanilla, beating until light ribbons fall off the whisk and remain for a short while before falling back into the mixture.\nSift in the flour and baking soda, then fold the mixture with a spatula (Be careful not to overmix, which would cause the gluten in the flour to toughen resulting in cakier cookies).\nFold in the chocolate chunks, then chill the dough for at least 30 minutes. For a more intense toffee-like flavor and deeper color, chill the dough overnight. The longer the dough rests, the more complex its flavor will be.\nPreheat oven to 350\u00b0F (180\u00b0C). Line a baking sheet with parchment paper.\nScoop the dough with an ice-cream scoop onto a parchment paper-lined baking sheet, leaving at least 4 inches (10 cm) of space between cookies and 2 inches (5 cm) of space from the edges of the pan so that the cookies can spread evenly.\nBake for 12-15 minutes, or until the edges have started to barely brown.\nCool completely before serving.",
+        "motivation_app": "Tasty"
+    },
+    {
+        "input": "Find synonyms for the given word. You need to write down how the provided synonyms differ from the original word in terms of meaning, usage, etc.\n\nInput: adversity\nOutput:",
+        "output": "- mischance:The words mischance and adversity are synonyms, but do differ in nuance. Specifically, mischance applies especially to a situation involving no more than slight inconvenience or minor annoyance.\n- misfortune: The meanings of misfortune and adversity largely overlap; however, misfortune may apply to either the incident or conjunction of events that is the cause of an unhappy change of fortune or to the ensuing state of distress.\n- mishap: The synonyms mishap and adversity are sometimes interchangeable, but mishap applies to an often trivial instance of bad luck.",
+        "motivation_app": "merriam-webster.com"
+    },
+    {
+        "input": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nInput: Reason: You came in second\nOutput:",
+        "output": "Dear [Candidate Name],\n\nThank you for applying to [company name]! We're sorry to inform you that we're going to be passing on your application.\nWe were impressed with your initiative and would love to have had the opportunity to work with you. At this time, however, we're not able to offer any positions at our company.\nPlease accept our sincerest apologies for passing on your application, and know that we remain open to working with you in the future!",
+        "motivation_app": "Gmail"
+    },
+    {
+        "input": "Provide a list of the skills that may help you find the job.\n\nInput: Crew Members\nOutput:",
+        "output": "Baking\nBasic math\nBilingual\nCash handling\nCashiering\nCommunication skills\nComputer literacy\nComputer skills\nConstruction\nCooking\nCustomer service",
+        "motivation_app": "Indeed"
+    },
+    {
+        "input": "Write a Jira ticket for the given task.\n\nInput: New Employee onboarding\nOutput:",
+        "output": "Title: Please help our new employee get settled.\nPrepare a desk, chair, and computer for them to use.\nCreate their company account, email, and temporary password.\nGrant access to company documents.",
+        "motivation_app": "Jira"
+    },
+    {
+        "input": "The tone of the email should be changed and rewritten in a more professional manner.\n\nInput: Subject: Asking for Vacation Time\nHi [Employer], \nI hope all is well. I am writing to request a day off on [date]. I have already taken care of my work responsibilities for that day and will be available to answer any questions or concerns you may have. \nThank you for your time, \n[Your name]\nOutput:",
+        "output": "Subject: Request for Vacation Time\nHello [Employer],\nI am writing to request vacation time from work. I would like to take [Number of Days] off, starting on [Date]. I will be sure to complete all of my work before taking my vacation, and I will be available by email if anything comes up while I'm away. Thank you for your consideration.\n[Your name]",
+        "motivation_app": "Gmail"
+    },
+    {
+        "input": "Consider the best time of year to visit the given city, and provide your reasons for choosing that time.\n\nInput: Sydney, Australia\nOutput:",
+        "output": "March to May: The best times to visit Sydney are between March and May and September and November. You\u2019ll find more comfortable temperatures and fewer crowds \u2014 which means you can likely nab better prices on airfare, too.\nBut if you want to warm up with the masses from winter back home, the average daily temperatures in January can hit highs of 30\u00b0C/86\u00b0F and lows around 20\u00b0C/67\u00b0F.",
+        "motivation_app": "tripadvisor.com"
+    },
+    {
+        "input": "Notify me of any suggestions you may have for making the text more grammatically correct.\n\nInput: This is the second time I've been here, and the vibes, and the food were exquisite.\nOutput:",
+        "output": "It appears that you have an unnecessary comma in a compound subject. Consider removing it.",
+        "motivation_app": "Grammarly"
+    },
+    {
+        "input": "Make a list of snacks and foods to serve as party snacks on a game day!\nOutput:",
+        "output": "- Classic Chocolate Cake\n- Buffalo Chicken Sliders\n- Smoky Oven-Fried Chicken\n- Classic Hot Crab Dip For A Crowd\n- Potato Crust Breakfast Pizza\n- Muffin Tin Deviled Eggs",
+        "motivation_app": "Tasty"
+    },
+    {
+        "input": "Provide a pleasant compliment based on the quality you have been given.\n\nInput: Truthfulness\nOutput:",
+        "output": "Everything would be better if more people were like you.",
+        "motivation_app": "Reddit"
+    },
+    {
+        "input": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nInput: Company: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful\nOutput:",
+        "output": "Software Engineer\n[company name] is looking for a self-motivated software engineer to join our team. We're a team of engineers and data scientists who work with large-scale data processing systems such as Apache Spark and Amazon Redshift to analyze data in the cloud.\nYou'll be responsible for receiving and performing code reviews with other engineers, writing unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest, working collaboratively with fellow engineers to build features requested by business stakeholders, participating in Agile teams to develop, test and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nIn addition to being able to diagnose, debug, and perform root cause analysis of issues and defects when needed, we're looking for someone with some visualization experience (Tableau or PowerBI) who can bring their own ideas about how best use these tools on a project.\nSkills that will lead to success include: Experience with Python programming languages; experience with cloud systems like AWS or Azure; experience writing SQL queries; strong written communication skills; eagerness to work in a highly collaborative environment;",
+        "motivation_app": "Indeed"
+    },
+    {
+        "input": "You should choose a YouTube video title based on the video's content. A video's title tells viewers what to expect from it. It should be direct, honest, and clear. The title of the video needs to capture the attention of viewers, so do not use an unclear or ambiguous one.\n\nInput: A research study has been conducted to determine if exercise really can \"boost\" your metabolism.\nOutput:",
+        "output": "You Will Not Believe The Results Of A Recent Study On Exercise And The Metabolism!",
+        "motivation_app": "YouTube"
+    },
+    {
+        "input": "We've already decided on the title and topic for our blog post. I would appreciate it if you wrote an introduction paragraph to attract the readers' attention.\n\nInput: Blog title: Healthy Apple Muffins\nBlog Topic: recipe and tips for cooking a good apple muffin\nOutput:",
+        "output": "Let me tell you this, apple muffins are extremely easy to make, and they are totally worth the effort. If you've never been much of a cook or baker before, I can promise you that making these will change your mind. And if they don't get the job done, at least they'll taste good!",
+        "motivation_app": "Blogger"
+    },
+    {
+        "input": "Please provide us with a list of the best conservation starter questions related to the weather.\nOutput:",
+        "output": "1. Beautiful day, isn't it?\n2. Can you believe all of this rain we've been having?\n3. It looks like it's going to storm.\n4. We couldn't ask for a nicer day, could we?\n5. How about this weather?\n6. It's so nice out today, isn't it?\n7. The weather's nice today, right?\n8. It\u2019s freezing today! Hopefully it doesn\u2019t snow.\n9. Wow, it\u2019s really hot/cold for this time of year.\n10. It\u2019s really been pouring all day, huh?",
+        "motivation_app": "Weather"
+    },
+    {
+        "input": "Choosing a name for your product or business YouTube channel is an important part of the process. Based on the description of the product or business, you should come up with some interesting names. Take some time to brainstorm your ideas.\n\nInput: Here you will find videos and content that will help students prepare for the application process to graduate schools as well as how to apply to graduate schools\nOutput:",
+        "output": "GradSchoolPrep, GoGradSchool, GradSchoolVidz, Apply2Gradschool",
+        "motivation_app": "YouTube"
+    },
+    {
+        "input": "Take the product description and write a creative ad for it.\n\nInput: Document Cameras allow teachers to display documents, books, or other materials for their students to see.\nOutput:",
+        "output": "Looking for a way to make your lessons more engaging? Check out our document cameras! With our cameras, you can display documents, books, or other materials for your students to see. This is a great way to add more visual elements to your lessons and make them more exciting for your students.",
+        "motivation_app": "Facebook"
+    },
+    {
+        "input": "Using the ingredients that are available, create a dinner recipe.\n\nInput: Kale + almond butter + apple cider vinegar + agave nectar + tamari\nOutput:",
+        "output": "Gently pat the kale leaves dry.\nDe-stem the kale and tear into pieces of desired size. Add the kale to a large bowl.\nAdd the almond butter, apple cider vinegar, liquid aminos, and agave nectar to a small bowl and whisk together for 30 seconds.\nPour the dressing over the kale leaves, roll up your sleeves, and massage the kale with your hands for 2-3 minutes. The more you massage the kale, the more tender and flavorful the leaves will become.*\nTransfer the kale to one large or two small salad bowls and top with desired garnishes.",
+        "motivation_app": "Tasty"
+    },
+    {
+        "input": "Expand the given sentence and give it more details and depth.\n\nInput: It changed my life.\nOutput:",
+        "output": "The experience changed the course of my life forever.",
+        "motivation_app": "Grammarly"
+    },
+    {
+        "input": "You will be required to write a few questions from the given company's interview section.\n\nInput: Kohl's\nOutput:",
+        "output": "- Why do you want to work at kohls? \n- If you were helping a customer and another interrupted you, what would you do? \n- What\u2019s your availability? \n- What do you think is the most important aspect of working in a retail store? \n- What\u2019s a reasonable reason for not showing up at work?",
+        "motivation_app": "Indeed"
+    },
+    {
+        "input": "Make a list of the top places in the U.S. to visit at the given time.\n\nInput: November\nOutput:",
+        "output": "1- For mild temperatures and local brews: San Diego\n2- For the last gasp of fall foliage: Manchester, VT\n3- For unexpected art and mountain views: Las Vegas\n4- For ice skating and family fun: Chicago\n5- For a waterfront Thanksgiving experience: Key West, FL\n6- For great food and ghost tours: Savannah, GA",
+        "motivation_app": "tripadvisor.com"
+    },
+    {
+        "input": "Make a list of desirable Skills for software engineers to add to LinkedIn.\nOutput:",
+        "output": "Test-Driven Development\nObject-Oriented Programming (OOP)\nMVC\nREST API\nTechnical Writing\nDebugging",
+        "motivation_app": "LinkedIn"
+    }
+]

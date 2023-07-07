@@ -1,0 +1,32 @@
+{
+    "1. Relevance: The response should be relevant to the user's instruction or query.": {
+        "pass": "0.91%",
+        "delete": "0.02%",
+        "revise": "0.06%",
+        "add": "0.00%"
+    },
+    "2. Clarity: The response should be clear and easy to understand.": {
+        "pass": "0.93%",
+        "delete": "0.03%",
+        "revise": "0.04%",
+        "add": "0.00%"
+    },
+    "3. Correctness: The response should be factually correct and free of errors.": {
+        "pass": "0.93%",
+        "delete": "0.03%",
+        "revise": "0.03%",
+        "add": "0.01%"
+    },
+    "4. Politeness: The response should be polite and respectful.": {
+        "pass": "0.88%",
+        "delete": "0.05%",
+        "revise": "0.06%",
+        "add": "0.01%"
+    },
+    "5. Completeness: The response should provide a comprehensive and detailed answer to the user's instruction.": {
+        "pass": "0.92%",
+        "delete": "0.02%",
+        "revise": "0.06%",
+        "add": "0.00%"
+    }
+}
