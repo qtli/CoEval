@@ -1,5 +1,5 @@
 <div align= "center">
-    <h1><img src="assets/machine.png" height="28px" alt=""/> <img src="assets/person.png" height="28px" alt=""/> CoEval </h1>
+    <h1><img src="assets/machine.png" height="28px" alt=""/> <img src="assets/handshake.png" height="28px" alt=""/> <img src="assets/person.png" height="30px" alt=""/> CoEval </h1>
 </div>
 
 <p align="center">
