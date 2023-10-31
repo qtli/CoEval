@@ -117,10 +117,9 @@ If you use CoEval in your research, please cite:
 
 ```bibtex
 @misc{li2023coeval,
-      title={Exploring the Reliability of Large Language Models as Evaluators}, 
-      author={Qintong Li and Yafu Li and Leyang Cui and Lingpeng Kong and Wei Bi},
+      title={Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation}, 
+      author={Qintong Li and Leyang Cui and Lingpeng Kong and Wei Bi},
       year={2023},
-      eprint={xx},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
